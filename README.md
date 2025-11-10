@@ -4,7 +4,7 @@ Projeto acadêmico de um sistema de venda de ingressos ("Show de Opera") em Java
 
 ## Como Executar
 
-1.  Clone o repositório.
+1.  Clone o projeto.
 2.  Abra o projeto em uma IDE Java (NetBeans, IntelliJ, etc.).
 3.  Execute o arquivo `src/sistemadevendas/Main.java`.
 
